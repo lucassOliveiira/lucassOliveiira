@@ -18,3 +18,5 @@
 <a href="https://www.linkedin.com/in/lucas-oliveira-697909205/" target=_"blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="blank" ></a> 
   <a href="https://www.instagram.com/kbcaskt/" target ="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>   
  <a href="https://www.facebook.com/lucas.oliveiradacosta.10/" target="_blank"><img src="https://img.shields.io/badge/Facebook-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" target="_blank"></a>
+ <a href = "mailto:lucasoc.skt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
