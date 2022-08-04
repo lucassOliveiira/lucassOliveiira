@@ -1,5 +1,5 @@
-## Olá eu sou Lucas Oliveira, estudante de programação!
-• 🔭 Desenvolvedor Front End
+## Hello, i'm Lucas Oliveira, programming student!
+• 🔭 Front End Developer
 
 <div>
   <a href=https://github.com/lucassOliveiira>
